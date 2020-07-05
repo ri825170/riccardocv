@@ -3,9 +3,7 @@ Extensive previous experience in technical support. With a practical approach to
 
 
 ## Contacts
- **Address:** Carraig na Greine,Aharas, Ballingeary, Macroom Co.Cork P12 ER28 
 
-**Phone:** 089 251 0527
 #### Email: [**riccardo.oberdano@outlook.com**](mailto:riccardo.oberdano@outlook.com) 
 
 **LinkedIn:** [**http://cl.linkedin.com/in/riccardo-oberdano-4a3158125**](http://cl.linkedin.com/in/riccardo-oberdano-4a3158125) <br/>  <br/><br/>
