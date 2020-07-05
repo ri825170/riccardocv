@@ -3,7 +3,9 @@ Extensive previous experience in technical support. With a practical approach to
 
 
 ## Contacts
+ **Address:** Carraig na Greine,Aharas, Ballingeary, Macroom Co.Cork P12 ER28 
 
+**Phone:** 089 251 0527
 #### Email: [**riccardo.oberdano@outlook.com**](mailto:riccardo.oberdano@outlook.com) 
 
 **LinkedIn:** [**http://cl.linkedin.com/in/riccardo-oberdano-4a3158125**](http://cl.linkedin.com/in/riccardo-oberdano-4a3158125) <br/>  <br/><br/>
@@ -16,15 +18,15 @@ Extensive previous experience in technical support. With a practical approach to
 * Finite States Machines design
 * Mechanical design
 * Networking
-* Technical 
-* Very good practical knowledge of electronics, mechanics, pneumatics and hydraulics. PLC programming basics.<br/>  <br/><br/>
+* Technical Writing
+* Very good practical knowledge of electronics, mechanics, pneumatics and hydraulics. PLC programming basics.<br/><br/><br/>
 
 
 
 
 # EXPERIENCE
 
-<br/>  <br/><br/>
+<br/><br/><br/>
 ## Grid Beyond, Cork, Ireland — _System Support Engineer_
 
 ### Apr 2019 - Present
@@ -42,12 +44,11 @@ Extensive previous experience in technical support. With a practical approach to
   - Strong Windows knowledge
   - Strong Linux Knowledge
   - Powershell / BASH Scripting
-  - Strong Troubleshooting skills and analytical mindset
   - FInite State Machines design
   - Networking
-  - Basic SQL scripting
+  - Basic SQL query scripting
   - TopView Alarm System administration
-  - Technical Writing<br/>  <br/><br/>
+  - Technical Writing<br/><br/><br/>
 
 
 
@@ -67,7 +68,7 @@ Extensive previous experience in technical support. With a practical approach to
   - Deep configuration of Google Sync applications by using Windows regedit or Mac OS command line
   - XML API Config files analysis
   - Basic JSON scripting troubleshooting
-  - Perform screen share sessions to guide customers through the resolution<br/>  <br/><br/>
+  - Perform screen share sessions to guide customers through the resolution<br/><br/><br/>
 
 ## Voxpro, Cork, Ireland — _Case Manager (English/Italian)_
 
@@ -92,6 +93,7 @@ Extensive previous experience in technical support. With a practical approach to
 ### Sept 2015 - Jun 2016
 
 _Mechanical design, assembly, installation and Technical Support of a grinding-sterilizing systems for medical waste_.
+
 - Designed the entire external structure and shredding section using SolidWorks
 - Assisted CNC programmer with the generation of programs for CNC machines
 - Supported Manufacturing division to improve and trouble-shoot assembly procedures, reducing defects and assembly times.
@@ -137,10 +139,10 @@ _Mechanical design, assembly, installation and Technical Support of Rotomolding 
 ### Jan 2006 - Jun 2013
 
 _Installation and Technical support of pre / post treatment paper systems, inserting systems and packaging systems_
-- Inspection of customer site and production of installation layout
-- Installation of pre / post treatment paper systems, inserting systems and packaging systems
-- Tech support on all installed machine: K686 - K200 - K2500 - K2600 - K3000 - K3500<br/><br/><br/>
-- Given the complexity of these systems, the troubleshooting was related to different subsystems:
+* Inspection of customer site and production of installation layout
+* Installation of pre / post treatment paper systems, inserting systems and packaging systems
+* Tech support on all installed machine: K686 - K200 - K2500 - K2600 - K3000 - K3500<br/><br/><br/>
+* Given the complexity of these systems, the troubleshooting was related to different subsystems:
 
   - **Pneumatic** : all the all moving parts were powered by compressed air
   - **Electromecanic** :Electromagnetic brakes and clutches
@@ -197,11 +199,12 @@ _Installation and Technical support high-speed printers IBM mod.3900, 4000 e 410
 
 _Installation and Technical support AS/400 servers._
 
-- Physical installation of AS/400 servers
-- Remote tech support (helped customers with basic and complex how to, reset of pending sessions)
+* Physical installation of AS/400 servers
+* Remote tech support (helped customers with basic and complex how to, reset of pending sessions)
+
 _Networking_
 
-- Replacement, configuration and troubleshooting of Netgear ISDN router<br/><br/><br/>
+* Replacement, configuration and troubleshooting of Netgear ISDN router<br/><br/><br/>
 
 # EDUCATION
 <br/><br/><br/>
@@ -212,4 +215,6 @@ _Networking_
 <br/><br/><br/>
 
 # LANGUAGES
-**Italian** : Native Speaker **English** : Fluent **Spanish** : Upper intermediate 
+**Italian** : Native Speaker 
+**English** : Fluent 
+**Spanish** : Upper intermediate 
