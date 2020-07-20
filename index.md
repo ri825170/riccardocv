@@ -47,7 +47,8 @@ Extensive previous experience in technical support. With a practical approach to
   - Networking
   - Basic SQL query scripting
   - TopView Alarm System administration
-  - Technical Writing<br/><br/><br/>
+  - Technical Writing
+  - Technical Training <br/><br/><br/>
 
 
 
@@ -60,14 +61,17 @@ Extensive previous experience in technical support. With a practical approach to
 - Contribute to the development of internal products, serving as the voice of the customer in identifying product enhancements and making sure new products launch with customer usability in mind.
 - Manage complex sales and customer inquiries (by live chat, email and other channels) that can&#39;t be resolved by first-level support team. Apply deep product expertise in carrying out strategic projects and solving complex technical customer issues and escalations.
 - Engage with cross-functional partners (including Engineering and Product teams) to identify and resolve product bugs/issues.
-- Identify opportunities and deliver solutions to scale or otherwise improve Google&#39;s support operations.<br/><br/>
+- Identify opportunities and deliver solutions to scale or otherwise improve Google&#39;s support operations.
+- Documenting and creation of systems training manuals and hosting of systems training events across the company offices <br/><br/>
 - **Technical Skills required by the position**:
   - Log file analysis
   - Base 64 message headers analysis
   - Deep configuration of Google Sync applications by using Windows regedit or Mac OS command line
   - XML API Config files analysis
   - Basic JSON scripting troubleshooting
-  - Perform screen share sessions to guide customers through the resolution<br/><br/><br/>
+  - Perform screen share sessions to guide customers through the resolution
+  - Technical Writing
+  - Technical Training <br/><br/><br/>
 
 ## Voxpro, Cork, Ireland — _Case Manager (English/Italian)_
 
@@ -100,7 +104,8 @@ _Mechanical design, assembly, installation and Technical Support of a grinding-s
 - Supported Manufacturing division with prototypes tests
 - Performed installation on customer site
 - Technical support on all installed machines
-- Maintenance planning<br/><br/><br/>
+- Maintenance planning
+- Documenting and creation of systems training manuals and hosting of systems training events across the company offices <br/><br/><br/>
 
 - ***Technical Skills required by the position***:
   - 3D CAD design (Solidworks)
@@ -108,7 +113,9 @@ _Mechanical design, assembly, installation and Technical Support of a grinding-s
   - Electrical fitting
   - Mechanical fitting
   - Maintenance planning
-  - Field service<br/><br/><br/>
+  - Field service
+  - Technical Writing
+  - Technical Training <br/><br/><br/>
 
 ## A.e.s Corp. S.r.l., Varese, Italy—Technical Support Specialist, Mechanical Designer
 
@@ -130,7 +137,9 @@ _Mechanical design, assembly, installation and Technical Support of Rotomolding 
    - Electrical fitting
    - Mechanical fitting
    - Maintenance planning
-   - Field service<br/><br/><br/>
+   - Field service
+   - Technical Writing
+   - Technical Training<br/><br/><br/>
 
 
 ## Kern S.p.a., Milan, Italy— _Technical Support Specialist_
@@ -140,7 +149,8 @@ _Mechanical design, assembly, installation and Technical Support of Rotomolding 
 _Installation and Technical support of pre / post treatment paper systems, inserting systems and packaging systems_
 * Inspection of customer site and production of installation layout
 * Installation of pre / post treatment paper systems, inserting systems and packaging systems
-* Tech support on all installed machine: K686 - K200 - K2500 - K2600 - K3000 - K3500<br/><br/><br/>
+* Tech support on all installed machine: K686 - K200 - K2500 - K2600 - K3000 - K3500
+* Documenting and creation of systems training manuals and hosting of systems training events across the company offices<br/><br/><br/>
 * Given the complexity of these systems, the troubleshooting was related to different subsystems:
 
   - **Pneumatic** : all the all moving parts were powered by compressed air
@@ -157,12 +167,16 @@ _Italian deputy ADF department (Automated Document Factory: modular, open and co
  - Data Matrix reders installation and configuration
  - Database maintenance
  - Core software configuration
+ - Technical Writing
+ - Technical Training
 
 _Technical support for Morgana folding systems, KGS and Plockmatic_
 
 - Inspection of customer site and production of installation layout
 - Installation of folding systems
-- Tech support on all installed systems<br/><br/><br/>
+- Tech support on all installed systems
+- Technical Writing
+- Technical Training<br/><br/><br/>
 
 ## I.s.s. S.r.l., Rome, Italy— _Technical Support Specialist_
 
