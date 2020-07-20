@@ -14,9 +14,10 @@ Extensive previous experience in technical support. With a practical approach to
 * Strong Windows Knowledge
 * Powershell / BASH Scripting
 * Finite States Machines design
-* Mechanical design
 * Networking
+* Technical Training
 * Technical Writing
+* Mechanical design
 * Very good practical knowledge of electronics, mechanics, pneumatics and hydraulics. PLC programming basics.<br/><br/><br/>
 
 
